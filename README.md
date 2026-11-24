@@ -12,6 +12,13 @@ The property is tailor-made for a trie: insert all words, then for each candidat
 
 **Complexity:** O(total characters) time and space.
 
+## Visual walkthrough
+
+Read the picture top to bottom — each numbered frame is one moment of the algorithm
+running on this repo's test example.
+
+![Step-by-step visual walkthrough](viz.svg)
+
 ## Run
 
     go test ./...   # verify
